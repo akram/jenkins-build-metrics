@@ -1,0 +1,21 @@
+
+The following files have been resolved:
+   com.jcraft:jsch:jar:0.1.54:compile
+   findbugs:annotations:jar:1.0.0:compile (optional) 
+   io.jenkins.temp.jelly:multiline-secrets-ui:jar:1.0:compile
+   org.abego.treelayout:org.abego.treelayout.core:jar:1.0.1:compile
+   org.antlr:antlr4-runtime:jar:4.5:compile
+   org.ini4j:ini4j:jar:0.5.2:compile
+   org.jenkins-ci.plugins.workflow:workflow-api:jar:2.35:compile
+   org.jenkins-ci.plugins.workflow:workflow-step-api:jar:2.20:compile
+   org.jenkins-ci.plugins:credentials:jar:2.2.0:compile
+   org.jenkins-ci.plugins:jsch:jar:0.1.54.1:compile
+   org.jenkins-ci.plugins:junit:jar:1.28:compile
+   org.jenkins-ci.plugins:matrix-project:jar:1.14:compile
+   org.jenkins-ci.plugins:multiple-scms:jar:0.4-beta-1:compile (optional) 
+   org.jenkins-ci.plugins:scm-api:jar:2.6.3:compile
+   org.jenkins-ci.plugins:ssh-credentials:jar:1.17.1:compile
+   org.jenkins-ci.plugins:structs:jar:1.19:compile
+   org.jenkins-ci:symbol-annotation:jar:1.19:compile
+   org.slf4j:slf4j-api:jar:1.7.25:compile (optional) 
+

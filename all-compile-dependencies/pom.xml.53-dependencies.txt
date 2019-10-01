@@ -1,0 +1,5 @@
+
+The following files have been resolved:
+   org.jenkins-ci.plugins:display-url-api:jar:2.3.1:compile
+   org.slf4j:slf4j-api:jar:1.7.25:compile (optional) 
+

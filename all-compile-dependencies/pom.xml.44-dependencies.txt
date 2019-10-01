@@ -1,0 +1,6 @@
+
+The following files have been resolved:
+   org.jenkins-ci.plugins.workflow:workflow-step-api:jar:1.14.2:compile
+   org.jenkins-ci.plugins:matrix-project:jar:1.0:compile
+   org.slf4j:slf4j-api:jar:1.7.7:compile (optional) 
+

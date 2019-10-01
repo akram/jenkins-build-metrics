@@ -1,0 +1,13 @@
+
+The following files have been resolved:
+   org.abego.treelayout:org.abego.treelayout.core:jar:1.0.1:compile
+   org.antlr:antlr4-runtime:jar:4.5:compile
+   org.jboss.marshalling:jboss-marshalling-river:jar:2.0.6.Final:compile
+   org.jboss.marshalling:jboss-marshalling:jar:2.0.6.Final:compile
+   org.jenkins-ci.plugins.workflow:workflow-api:jar:2.35:compile
+   org.jenkins-ci.plugins.workflow:workflow-step-api:jar:2.20:compile
+   org.jenkins-ci.plugins.workflow:workflow-support:jar:3.3:compile
+   org.jenkins-ci.plugins:credentials:jar:2.3.0:compile
+   org.jenkins-ci.plugins:scm-api:jar:2.6.3:compile
+   org.slf4j:slf4j-api:jar:1.7.25:compile (optional) 
+

@@ -1,0 +1,12 @@
+
+The following files have been resolved:
+   com.jayway.jsonpath:json-path:jar:2.4.0:compile
+   net.minidev:accessors-smart:jar:1.2:compile
+   net.minidev:json-smart:jar:2.3:compile
+   org.jenkins-ci.plugins.workflow:workflow-step-api:jar:2.14:compile
+   org.jenkins-ci.plugins:structs:jar:1.14:compile
+   org.jenkins-ci:symbol-annotation:jar:1.14:compile
+   org.parboiled:parboiled-core:jar:1.1.8:compile
+   org.parboiled:parboiled-java:jar:1.1.8:compile
+   org.slf4j:slf4j-api:jar:1.7.25:compile (optional) 
+

@@ -1,0 +1,12 @@
+
+The following files have been resolved:
+   org.apache.httpcomponents:fluent-hc:jar:4.5.10:compile
+   org.apache.httpcomponents:httpasyncclient-cache:jar:4.1.4:compile
+   org.apache.httpcomponents:httpasyncclient:jar:4.1.4:compile
+   org.apache.httpcomponents:httpclient-cache:jar:4.5.10:compile
+   org.apache.httpcomponents:httpclient:jar:4.5.10:compile
+   org.apache.httpcomponents:httpcore-nio:jar:4.4.10:compile
+   org.apache.httpcomponents:httpcore:jar:4.4.12:compile
+   org.apache.httpcomponents:httpmime:jar:4.5.10:compile
+   org.slf4j:slf4j-api:jar:1.7.25:compile (optional) 
+

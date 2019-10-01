@@ -1,0 +1,11 @@
+
+The following files have been resolved:
+   org.jboss.marshalling:jboss-marshalling-river:jar:2.0.6.Final:compile
+   org.jboss.marshalling:jboss-marshalling:jar:2.0.6.Final:compile
+   org.jenkins-ci.plugins.workflow:workflow-api:jar:2.33:compile
+   org.jenkins-ci.plugins.workflow:workflow-step-api:jar:2.18:compile
+   org.jenkins-ci.plugins.workflow:workflow-support:jar:3.1:compile
+   org.jenkins-ci.plugins:script-security:jar:1.50:compile
+   org.kohsuke:groovy-sandbox:jar:1.20:compile
+   org.slf4j:slf4j-api:jar:1.7.25:compile (optional) 
+

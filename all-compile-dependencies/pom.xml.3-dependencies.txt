@@ -1,0 +1,46 @@
+
+The following files have been resolved:
+   com.googlecode.javaewah:JavaEWAH:jar:0.7.9:compile
+   com.infradna.tool:bridge-method-annotation:jar:1.17:compile
+   com.jcraft:jsch:jar:0.1.53:compile
+   commons-codec:commons-codec:jar:1.9:compile
+   joda-time:joda-time:jar:2.9.5:compile
+   org.abego.treelayout:org.abego.treelayout.core:jar:1.0.1:compile
+   org.antlr:antlr4-runtime:jar:4.5:compile
+   org.apache.httpcomponents:httpclient:jar:4.5.2:compile
+   org.apache.httpcomponents:httpcore:jar:4.4.4:compile
+   org.eclipse.jgit:org.eclipse.jgit.http.apache:jar:4.5.2.201704071617-r:compile
+   org.eclipse.jgit:org.eclipse.jgit.http.server:jar:4.5.2.201704071617-r:compile
+   org.eclipse.jgit:org.eclipse.jgit:jar:4.5.2.201704071617-r:compile
+   org.jboss.marshalling:jboss-marshalling-river:jar:2.0.6.Final:compile
+   org.jboss.marshalling:jboss-marshalling:jar:2.0.6.Final:compile
+   org.jenkins-ci.plugins.workflow:workflow-api:jar:2.32:compile
+   org.jenkins-ci.plugins.workflow:workflow-job:jar:2.32:compile
+   org.jenkins-ci.plugins.workflow:workflow-scm-step:jar:2.4:compile
+   org.jenkins-ci.plugins.workflow:workflow-step-api:jar:2.19:compile
+   org.jenkins-ci.plugins.workflow:workflow-support:jar:3.2:compile
+   org.jenkins-ci.plugins:branch-api:jar:2.0.11:compile
+   org.jenkins-ci.plugins:cloudbees-folder:jar:6.1.0:compile
+   org.jenkins-ci.plugins:credentials:jar:2.1.14:compile
+   org.jenkins-ci.plugins:display-url-api:jar:0.2:compile
+   org.jenkins-ci.plugins:git-client:jar:2.5.0:compile
+   org.jenkins-ci.plugins:git:jar:3.6.0:compile
+   org.jenkins-ci.plugins:mailer:jar:1.18:compile
+   org.jenkins-ci.plugins:matrix-project:jar:1.7.1:compile
+   org.jenkins-ci.plugins:scm-api:jar:2.2.6:compile
+   org.jenkins-ci.plugins:script-security:jar:1.39:compile
+   org.jenkins-ci.plugins:ssh-credentials:jar:1.13:compile
+   org.jenkins-ci.plugins:structs:jar:1.17:compile
+   org.jenkins-ci.plugins:token-macro:jar:2.0:compile
+   org.jenkins-ci:annotation-indexer:jar:1.12:compile
+   org.jenkins-ci:symbol-annotation:jar:1.1:compile
+   org.jvnet.hudson.plugins:favorite:jar:2.3.1:compile
+   org.kohsuke:groovy-sandbox:jar:1.16:compile
+   org.ow2.asm:asm-analysis:jar:5.0.3:compile
+   org.ow2.asm:asm-tree:jar:5.0.3:compile
+   org.ow2.asm:asm-util:jar:5.0.3:compile
+   org.ow2.asm:asm:jar:5.0.3:compile
+   org.parboiled:parboiled-core:jar:1.1.7:compile
+   org.parboiled:parboiled-java:jar:1.1.7:compile
+   org.slf4j:slf4j-api:jar:1.7.25:compile (optional) 
+

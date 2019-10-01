@@ -1,0 +1,7 @@
+
+The following files have been resolved:
+   org.abego.treelayout:org.abego.treelayout.core:jar:1.0.1:compile (optional) 
+   org.antlr:antlr4-runtime:jar:4.5:compile (optional) 
+   org.jenkins-ci.plugins:credentials:jar:2.1.11:compile (optional) 
+   org.slf4j:slf4j-api:jar:1.7.25:compile (optional) 
+

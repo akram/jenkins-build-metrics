@@ -1,0 +1,16 @@
+
+The following files have been resolved:
+   org.jboss.marshalling:jboss-marshalling-river:jar:1.4.9.Final:compile
+   org.jboss.marshalling:jboss-marshalling:jar:1.4.9.Final:compile
+   org.jenkins-ci.plugins.workflow:workflow-api:jar:2.5:compile
+   org.jenkins-ci.plugins.workflow:workflow-step-api:jar:2.4:compile
+   org.jenkins-ci.plugins.workflow:workflow-support:jar:2.12:compile
+   org.jenkins-ci.plugins:mailer:jar:1.13:compile
+   org.jenkins-ci.plugins:matrix-project:jar:1.4:compile
+   org.jenkins-ci.plugins:script-security:jar:1.33:compile
+   org.jenkins-ci.plugins:structs:jar:1.4:compile
+   org.jenkins-ci:annotation-indexer:jar:1.11:compile
+   org.jenkins-ci:symbol-annotation:jar:1.1:compile
+   org.kohsuke:groovy-sandbox:jar:1.15:compile
+   org.slf4j:slf4j-api:jar:1.7.25:compile (optional) 
+

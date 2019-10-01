@@ -1,0 +1,6 @@
+
+The following files have been resolved:
+   org.jenkins-ci.plugins:structs:jar:1.18:compile
+   org.jenkins-ci:symbol-annotation:jar:1.18:compile
+   org.slf4j:slf4j-api:jar:1.7.25:compile (optional) 
+

@@ -1,0 +1,23 @@
+
+The following files have been resolved:
+   com.cloudbees:diff4j:jar:1.2:compile
+   com.cloudbees:groovy-cps:jar:1.24:compile
+   org.jboss.marshalling:jboss-marshalling-river:jar:1.4.12.jenkins-3:compile
+   org.jboss.marshalling:jboss-marshalling:jar:1.4.12.jenkins-3:compile
+   org.jenkins-ci.plugins.workflow:workflow-api:jar:2.27:compile
+   org.jenkins-ci.plugins.workflow:workflow-cps:jar:2.53:compile
+   org.jenkins-ci.plugins.workflow:workflow-job:jar:2.21:compile
+   org.jenkins-ci.plugins.workflow:workflow-scm-step:jar:2.4:compile
+   org.jenkins-ci.plugins.workflow:workflow-step-api:jar:2.13:compile
+   org.jenkins-ci.plugins.workflow:workflow-support:jar:2.17:compile
+   org.jenkins-ci.plugins:branch-api:jar:2.0.21:compile
+   org.jenkins-ci.plugins:cloudbees-folder:jar:6.1.2:compile
+   org.jenkins-ci.plugins:scm-api:jar:2.2.7:compile
+   org.jenkins-ci.plugins:script-security:jar:1.42:compile
+   org.jenkins-ci.plugins:structs:jar:1.17:compile
+   org.jenkins-ci.ui:ace-editor:jar:1.0.1:compile
+   org.jenkins-ci.ui:jquery-detached:jar:1.2.1:compile
+   org.jenkins-ci:symbol-annotation:jar:1.17:compile
+   org.kohsuke:groovy-sandbox:jar:1.17:compile
+   org.slf4j:slf4j-api:jar:1.7.25:compile (optional) 
+

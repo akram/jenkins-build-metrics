@@ -1,0 +1,17 @@
+
+The following files have been resolved:
+   org.jenkins-ci.plugins:display-url-api:jar:0.2:compile
+   org.jenkins-ci.plugins:junit:jar:1.2:compile
+   org.jenkins-ci.plugins:mailer:jar:1.18:compile
+   org.jenkins-ci.plugins:matrix-project:jar:1.7.1:compile
+   org.jenkins-ci.plugins:script-security:jar:1.13:compile
+   org.jenkins-ci.plugins:token-macro:jar:2.0:compile
+   org.kohsuke:groovy-sandbox:jar:1.8:compile
+   org.ow2.asm:asm-analysis:jar:5.0.3:compile
+   org.ow2.asm:asm-tree:jar:5.0.3:compile
+   org.ow2.asm:asm-util:jar:5.0.3:compile
+   org.ow2.asm:asm:jar:5.0.3:compile
+   org.parboiled:parboiled-core:jar:1.1.7:compile
+   org.parboiled:parboiled-java:jar:1.1.7:compile
+   org.slf4j:slf4j-api:jar:1.7.7:compile
+

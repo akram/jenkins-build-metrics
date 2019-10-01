@@ -1,0 +1,33 @@
+
+The following files have been resolved:
+   com.github.spotbugs:spotbugs-annotations:jar:3.1.12:compile (optional) 
+   com.google.code.gson:gson:jar:2.8.2:compile
+   com.googlecode.javaewah:JavaEWAH:jar:1.1.6:compile
+   com.jcraft:jsch:jar:0.1.55:compile
+   io.jenkins.temp.jelly:multiline-secrets-ui:jar:1.0:compile
+   net.jcip:jcip-annotations:jar:1.0:compile (optional) 
+   org.abego.treelayout:org.abego.treelayout.core:jar:1.0.1:compile
+   org.antlr:antlr4-runtime:jar:4.5:compile
+   org.apache.httpcomponents:fluent-hc:jar:4.5.10:compile
+   org.apache.httpcomponents:httpasyncclient-cache:jar:4.1.4:compile
+   org.apache.httpcomponents:httpasyncclient:jar:4.1.4:compile
+   org.apache.httpcomponents:httpclient-cache:jar:4.5.10:compile
+   org.apache.httpcomponents:httpclient:jar:4.5.10:compile
+   org.apache.httpcomponents:httpcore-nio:jar:4.4.10:compile
+   org.apache.httpcomponents:httpcore:jar:4.4.12:compile
+   org.apache.httpcomponents:httpmime:jar:4.5.10:compile
+   org.bouncycastle:bcpg-jdk15on:jar:1.61:compile
+   org.bouncycastle:bcpkix-jdk15on:jar:1.61:compile
+   org.bouncycastle:bcprov-jdk15on:jar:1.61:compile
+   org.eclipse.jgit:org.eclipse.jgit.http.apache:jar:5.5.0.201909110433-r:compile
+   org.eclipse.jgit:org.eclipse.jgit.http.server:jar:5.5.0.201909110433-r:compile
+   org.eclipse.jgit:org.eclipse.jgit.lfs:jar:5.5.0.201909110433-r:compile
+   org.eclipse.jgit:org.eclipse.jgit:jar:5.5.0.201909110433-r:compile
+   org.jenkins-ci.plugins:apache-httpcomponents-client-4-api:jar:4.5.10-1.0:compile
+   org.jenkins-ci.plugins:credentials:jar:2.3.0:compile
+   org.jenkins-ci.plugins:jsch:jar:0.1.55.1:compile
+   org.jenkins-ci.plugins:ssh-credentials:jar:1.17.2:compile
+   org.jenkins-ci.plugins:structs:jar:1.20:compile
+   org.jenkins-ci:symbol-annotation:jar:1.20:compile
+   org.slf4j:slf4j-api:jar:1.7.25:compile (optional) 
+

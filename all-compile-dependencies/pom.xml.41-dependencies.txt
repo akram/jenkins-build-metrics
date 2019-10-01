@@ -1,0 +1,25 @@
+
+The following files have been resolved:
+   com.googlecode.javaewah:JavaEWAH:jar:0.7.9:compile
+   com.jcraft:jsch:jar:0.1.54:compile
+   commons-codec:commons-codec:jar:1.9:compile
+   org.abego.treelayout:org.abego.treelayout.core:jar:1.0.1:compile
+   org.antlr:antlr4-runtime:jar:4.5:compile
+   org.apache.httpcomponents:fluent-hc:jar:4.5.3:compile
+   org.apache.httpcomponents:httpclient-cache:jar:4.5.3:compile
+   org.apache.httpcomponents:httpclient:jar:4.5.3:compile
+   org.apache.httpcomponents:httpcore:jar:4.4.6:compile
+   org.apache.httpcomponents:httpmime:jar:4.5.3:compile
+   org.eclipse.jgit:org.eclipse.jgit.http.apache:jar:4.5.4.201711221230-r:compile
+   org.eclipse.jgit:org.eclipse.jgit.http.server:jar:4.5.4.201711221230-r:compile
+   org.eclipse.jgit:org.eclipse.jgit:jar:4.5.4.201711221230-r:compile
+   org.jenkins-ci.plugins:apache-httpcomponents-client-4-api:jar:4.5.3-2.0:compile
+   org.jenkins-ci.plugins:credentials:jar:2.1.13:compile
+   org.jenkins-ci.plugins:git-client:jar:2.7.6:compile
+   org.jenkins-ci.plugins:jsch:jar:0.1.54.1:compile
+   org.jenkins-ci.plugins:ssh-credentials:jar:1.13:compile
+   org.jenkins-ci.plugins:structs:jar:1.9:compile
+   org.jenkins-ci:annotation-indexer:jar:1.12:compile
+   org.jenkins-ci:symbol-annotation:jar:1.1:compile
+   org.slf4j:slf4j-api:jar:1.7.25:compile (optional) 
+

@@ -1,0 +1,6 @@
+
+The following files have been resolved:
+   commons-io:commons-io:jar:2.4:compile
+   org.jenkins-ci.plugins:pubsub-light:jar:1.13:compile
+   org.slf4j:slf4j-api:jar:1.7.25:compile (optional) 
+

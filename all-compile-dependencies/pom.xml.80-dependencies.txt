@@ -1,0 +1,5 @@
+
+The following files have been resolved:
+   org.jenkins-ci.plugins:token-macro:jar:1.5.1:compile
+   org.slf4j:slf4j-api:jar:1.7.7:compile (optional) 
+

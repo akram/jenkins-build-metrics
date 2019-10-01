@@ -1,0 +1,25 @@
+
+The following files have been resolved:
+   com.cloudbees:diff4j:jar:1.2:compile (optional) 
+   com.cloudbees:groovy-cps:jar:1.24:compile (optional) 
+   org.apache.commons:commons-configuration2:jar:2.2:compile
+   org.apache.commons:commons-csv:jar:1.5:compile
+   org.apache.commons:commons-lang3:jar:3.7:compile
+   org.apache.maven:maven-model:jar:3.5.4:compile
+   org.codehaus.plexus:plexus-utils:jar:3.1.0:compile
+   org.jboss.marshalling:jboss-marshalling-river:jar:2.0.6.Final:compile
+   org.jboss.marshalling:jboss-marshalling:jar:2.0.6.Final:compile
+   org.jenkins-ci.plugins.workflow:workflow-api:jar:2.31:compile
+   org.jenkins-ci.plugins.workflow:workflow-cps:jar:2.58:compile (optional) 
+   org.jenkins-ci.plugins.workflow:workflow-scm-step:jar:2.4:compile (optional) 
+   org.jenkins-ci.plugins.workflow:workflow-step-api:jar:2.19:compile
+   org.jenkins-ci.plugins.workflow:workflow-support:jar:2.21:compile
+   org.jenkins-ci.plugins:scm-api:jar:2.2.6:compile
+   org.jenkins-ci.plugins:script-security:jar:1.46:compile
+   org.jenkins-ci.plugins:structs:jar:1.17:compile
+   org.jenkins-ci.ui:ace-editor:jar:1.0.1:compile (optional) 
+   org.jenkins-ci.ui:jquery-detached:jar:1.2.1:compile
+   org.jenkins-ci:symbol-annotation:jar:1.17:compile
+   org.kohsuke:groovy-sandbox:jar:1.19:compile
+   org.slf4j:slf4j-api:jar:1.7.25:compile (optional) 
+

@@ -1,0 +1,17 @@
+
+The following files have been resolved:
+   com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0:compile
+   com.fasterxml.jackson.core:jackson-core:jar:2.9.7:compile
+   com.fasterxml.jackson.core:jackson-databind:jar:2.9.7:compile
+   com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.7:compile
+   com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.7:compile
+   com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.9.7:compile
+   com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.7:compile
+   com.squareup.okhttp:okhttp-urlconnection:jar:2.7.5:compile
+   com.squareup.okhttp:okhttp:jar:2.7.5:compile
+   com.squareup.okio:okio:jar:1.6.0:compile
+   org.apache.commons:commons-lang3:jar:3.7:compile
+   org.jenkins-ci.plugins:jackson2-api:jar:2.9.7.1:compile
+   org.kohsuke:github-api:jar:1.95:compile
+   org.slf4j:slf4j-api:jar:1.7.7:compile (optional) 
+

@@ -1,0 +1,55 @@
+
+The following files have been resolved:
+   com.coravy.hudson.plugins.github:github:jar:1.29.3:compile
+   com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0:compile
+   com.fasterxml.jackson.core:jackson-core:jar:2.9.7:compile
+   com.fasterxml.jackson.core:jackson-databind:jar:2.9.7:compile
+   com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.7:compile
+   com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.7:compile
+   com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.9.7:compile
+   com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.7:compile
+   com.googlecode.javaewah:JavaEWAH:jar:0.7.9:compile
+   com.infradna.tool:bridge-method-annotation:jar:1.17:compile
+   com.jayway.jsonpath:json-path:jar:2.4.0:compile
+   com.jcraft:jsch:jar:0.1.54:compile
+   com.squareup.okhttp:okhttp-urlconnection:jar:2.7.5:compile
+   com.squareup.okhttp:okhttp:jar:2.7.5:compile
+   com.squareup.okio:okio:jar:1.6.0:compile
+   commons-codec:commons-codec:jar:1.9:compile
+   joda-time:joda-time:jar:2.9.5:compile
+   net.minidev:accessors-smart:jar:1.2:compile
+   net.minidev:json-smart:jar:2.3:compile
+   org.abego.treelayout:org.abego.treelayout.core:jar:1.0.1:compile
+   org.antlr:antlr4-runtime:jar:4.5:compile
+   org.apache.commons:commons-lang3:jar:3.7:compile
+   org.apache.httpcomponents:fluent-hc:jar:4.5.3:compile
+   org.apache.httpcomponents:httpclient-cache:jar:4.5.3:compile
+   org.apache.httpcomponents:httpclient:jar:4.5.3:compile
+   org.apache.httpcomponents:httpcore:jar:4.4.6:compile
+   org.apache.httpcomponents:httpmime:jar:4.5.3:compile
+   org.eclipse.jgit:org.eclipse.jgit.http.apache:jar:4.5.4.201711221230-r:compile
+   org.eclipse.jgit:org.eclipse.jgit.http.server:jar:4.5.4.201711221230-r:compile
+   org.eclipse.jgit:org.eclipse.jgit:jar:4.5.4.201711221230-r:compile
+   org.jenkins-ci.plugins.workflow:workflow-step-api:jar:2.19:compile (optional) 
+   org.jenkins-ci.plugins:apache-httpcomponents-client-4-api:jar:4.5.3-2.0:compile
+   org.jenkins-ci.plugins:credentials:jar:2.1.18:compile
+   org.jenkins-ci.plugins:display-url-api:jar:2.0:compile
+   org.jenkins-ci.plugins:git-client:jar:2.7.0:compile
+   org.jenkins-ci.plugins:git:jar:3.9.3:compile
+   org.jenkins-ci.plugins:github-api:jar:1.95:compile
+   org.jenkins-ci.plugins:jackson2-api:jar:2.9.7.1:compile
+   org.jenkins-ci.plugins:jsch:jar:0.1.54.1:compile
+   org.jenkins-ci.plugins:mailer:jar:1.18:compile
+   org.jenkins-ci.plugins:matrix-project:jar:1.7.1:compile
+   org.jenkins-ci.plugins:plain-credentials:jar:1.1:compile
+   org.jenkins-ci.plugins:scm-api:jar:2.6.3:compile
+   org.jenkins-ci.plugins:ssh-credentials:jar:1.13:compile
+   org.jenkins-ci.plugins:structs:jar:1.19:compile
+   org.jenkins-ci.plugins:token-macro:jar:2.6:compile
+   org.jenkins-ci:annotation-indexer:jar:1.12:compile
+   org.jenkins-ci:symbol-annotation:jar:1.19:compile
+   org.kohsuke:github-api:jar:1.95:compile
+   org.parboiled:parboiled-core:jar:1.1.8:compile
+   org.parboiled:parboiled-java:jar:1.1.8:compile
+   org.slf4j:slf4j-api:jar:1.7.25:compile (optional) 
+

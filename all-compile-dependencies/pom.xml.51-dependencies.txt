@@ -1,0 +1,63 @@
+
+The following files have been resolved:
+   com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0:compile
+   com.fasterxml.jackson.core:jackson-core:jar:2.9.9:compile
+   com.fasterxml.jackson.core:jackson-databind:jar:2.9.9:compile
+   com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:jar:2.9.9:compile
+   com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.9:compile
+   com.fasterxml.jackson.datatype:jackson-datatype-json-org:jar:2.9.8:compile
+   com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.9:compile
+   com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.9.9:compile
+   com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.9:compile
+   com.github.fge:json-schema-core:jar:1.0.4:compile
+   com.github.fge:json-schema-validator:jar:2.0.4:compile
+   com.github.mifmif:generex:jar:1.0.2:compile
+   com.google.guava:guava:jar:11.0.1:compile
+   com.googlecode.libphonenumber:libphonenumber:jar:5.3:compile
+   com.squareup.okhttp3:logging-interceptor:jar:3.12.0:compile
+   com.squareup.okhttp3:okhttp:jar:3.12.0:compile
+   com.squareup.okio:okio:jar:1.15.0:compile
+   dk.brics.automaton:automaton:jar:1.11-8:compile
+   io.fabric8:kubernetes-client:jar:4.6.0:compile
+   io.fabric8:kubernetes-model-common:jar:4.6.0:compile
+   io.fabric8:kubernetes-model:jar:4.6.0:compile
+   io.fabric8:openshift-client:jar:4.6.0:compile
+   io.fabric8:zjsonpatch:jar:0.3.0:compile
+   io.jenkins.temp.jelly:multiline-secrets-ui:jar:1.0:compile
+   javax.mail:mailapi:jar:1.4.3:compile
+   joda-time:joda-time:jar:2.1:compile
+   org.abego.treelayout:org.abego.treelayout.core:jar:1.0.1:compile
+   org.antlr:antlr4-runtime:jar:4.5:compile
+   org.apache.httpcomponents:fluent-hc:jar:4.5.10:compile
+   org.apache.httpcomponents:httpasyncclient-cache:jar:4.1.4:compile
+   org.apache.httpcomponents:httpasyncclient:jar:4.1.4:compile
+   org.apache.httpcomponents:httpclient-cache:jar:4.5.10:compile
+   org.apache.httpcomponents:httpclient:jar:4.5.10:compile
+   org.apache.httpcomponents:httpcore-nio:jar:4.4.10:compile
+   org.apache.httpcomponents:httpcore:jar:4.4.12:compile
+   org.apache.httpcomponents:httpmime:jar:4.5.10:compile
+   org.jenkins-ci.plugins.workflow:workflow-api:jar:2.37:compile
+   org.jenkins-ci.plugins.workflow:workflow-step-api:jar:2.20:compile
+   org.jenkins-ci.plugins:apache-httpcomponents-client-4-api:jar:4.5.10-1.0:compile
+   org.jenkins-ci.plugins:authentication-tokens:jar:1.3:compile
+   org.jenkins-ci.plugins:cloudbees-folder:jar:6.9:compile
+   org.jenkins-ci.plugins:credentials-binding:jar:1.20:compile
+   org.jenkins-ci.plugins:credentials:jar:2.3.0:compile
+   org.jenkins-ci.plugins:docker-commons:jar:1.14:compile
+   org.jenkins-ci.plugins:durable-task:jar:1.30:compile
+   org.jenkins-ci.plugins:jackson2-api:jar:2.9.9:compile
+   org.jenkins-ci.plugins:kubernetes-client-api:jar:4.6.0-1:compile
+   org.jenkins-ci.plugins:plain-credentials:jar:1.5:compile
+   org.jenkins-ci.plugins:scm-api:jar:2.6.3:compile
+   org.jenkins-ci.plugins:ssh-credentials:jar:1.17.2:compile
+   org.jenkins-ci.plugins:structs:jar:1.20:compile
+   org.jenkins-ci.plugins:variant:jar:1.3:compile
+   org.jenkins-ci:symbol-annotation:jar:1.20:compile
+   org.jenkinsci.plugins:kubernetes-credentials:jar:0.4.0:compile
+   org.jenkinsci.plugins:pipeline-model-api:jar:1.3.7:compile
+   org.jenkinsci.plugins:pipeline-model-extensions:jar:1.3.7:compile (optional) 
+   org.json:json:jar:20171018:compile
+   org.mozilla:rhino:jar:1.7R4:compile
+   org.slf4j:slf4j-api:jar:1.7.26:compile (optional) 
+   org.yaml:snakeyaml:jar:1.23:compile
+

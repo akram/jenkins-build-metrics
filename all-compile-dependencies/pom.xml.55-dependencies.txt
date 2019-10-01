@@ -1,0 +1,11 @@
+
+The following files have been resolved:
+   com.bettercloud:vault-java-driver:jar:4.0.0:compile
+   io.jenkins.configuration-as-code:snakeyaml:jar:1.12:compile
+   io.jenkins:configuration-as-code:jar:1.12:compile (optional) 
+   io.vavr:vavr-match:jar:0.9.2:compile
+   io.vavr:vavr:jar:0.9.2:compile
+   org.bigtesting:interpolatd:jar:1.0.0:compile
+   org.jenkins-ci.plugins:cloudbees-folder:jar:6.1.0:compile (optional) 
+   org.slf4j:slf4j-api:jar:1.7.25:compile (optional) 
+

@@ -1,0 +1,16 @@
+
+The following files have been resolved:
+   com.jcraft:jsch:jar:0.1.55:compile (optional) 
+   net.i2p.crypto:eddsa:jar:0.3.0:compile
+   org.abego.treelayout:org.abego.treelayout.core:jar:1.0.1:compile
+   org.antlr:antlr4-runtime:jar:4.5:compile
+   org.connectbot.jbcrypt:jbcrypt:jar:1.0.0:compile
+   org.jenkins-ci.plugins:credentials:jar:2.2.0:compile
+   org.jenkins-ci.plugins:structs:jar:1.7:compile
+   org.jenkins-ci.plugins:trilead-api:jar:1.0.5:compile
+   org.jenkins-ci:annotation-indexer:jar:1.12:compile
+   org.jenkins-ci:symbol-annotation:jar:1.1:compile
+   org.jenkins-ci:trilead-ssh2:jar:build-217-jenkins-16:compile
+   org.kohsuke:trilead-putty-extension:jar:1.2:compile
+   org.slf4j:slf4j-api:jar:1.7.26:compile (optional) 
+

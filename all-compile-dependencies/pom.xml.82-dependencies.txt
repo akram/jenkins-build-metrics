@@ -1,0 +1,8 @@
+
+The following files have been resolved:
+   com.github.ben-manes.caffeine:caffeine:jar:2.7.0:compile
+   com.google.errorprone:error_prone_annotations:jar:2.3.3:compile
+   org.checkerframework:checker-qual:jar:2.6.0:compile
+   org.kohsuke:groovy-sandbox:jar:1.23:compile
+   org.slf4j:slf4j-api:jar:1.7.25:compile (optional) 
+
